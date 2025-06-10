@@ -10,6 +10,8 @@ This is a comprehensive automation bot for the Ovipets virtual pet game. It can 
 - nightshade
 
 you guys were chill
+
+fuck the ovipets mods for banning people for guilt by association. That's fucked up.
 ## 🎯 What This Bot Does
 
 - **Main Bot**: Automatically turns eggs using AI to solve species identification puzzles
