@@ -1,5 +1,5 @@
 # Ovipets Bot - Complete Setup Guide
-
+# USE THE RELEASES TAB JUST DOWNLOAD FROM RELEASES THE REPO IS MISSING THE AI MODEL BUT RELEASES HAS IT AS WELL AS THE TRAINING DATA.
 This is a comprehensive automation bot for the Ovipets virtual pet game. It can automatically turn eggs, send friend requests, breed pets, and much more using AI-powered puzzle solving.
 
 ## 🎯 What This Bot Does
