@@ -149,9 +149,7 @@ fuck the ovipets mods for banning people for guilt by association. That's fucked
    - Only turns "Turn Egg" class pets (safe mode)
    
 2. **Evil Mode**: 
-   - Toggle "Evil Mode" switch to red
-   - Click "▶️ START" 
-   - Turns ALL pet types (Canis, Draconis, Equus, etc.)
+   - Only turns eggs that give credits, skips eggs that don't. By far the fastest option.
 
 3. **The bot will automatically**:
    - Find eggs from your friends
