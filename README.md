@@ -11,7 +11,7 @@ https://greasyfork.org/en/scripts/539228-ovipets-credit-bot-with-many-other-ovip
 - ink
 - nightshade
 
-you guys were chill
+you guys were chill, thanks for making the group good (OVIPETS MODS THEY DID NOT FUCKING CHEAT YOU DUMBASSES)
 
 fuck the ovipets mods for banning people for guilt by association. That's fucked up.
 ## 🎯 What This Bot Does
