@@ -2,6 +2,8 @@
 # USE THE RELEASES TAB JUST DOWNLOAD FROM RELEASES THE REPO IS MISSING THE AI MODEL BUT RELEASES HAS IT AS WELL AS THE TRAINING DATA.
 This is a comprehensive automation bot for the Ovipets virtual pet game. It can automatically turn eggs, send friend requests, breed pets, and much more using AI-powered puzzle solving.
 
+You can easily install the user script
+https://greasyfork.org/en/scripts/539228-ovipets-credit-bot-with-many-other-ovipets-hack-cheat-options
 
 ## Special thanks to the members of the bryguy4 credit giveaways group for making this possible:
 - vulpine
